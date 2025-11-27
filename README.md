@@ -1,4 +1,26 @@
-📌 Proyecto — Procesamiento y Validación de Comercios (CSV + Java Spring Boot + React + MySQL)
+## 🚀 Procesamiento y Validación de Comercios
+Java Spring Boot • React • MySQL
 
-Este proyecto consiste en una aplicación web desarrollada con React para el frontend, Spring Boot (Java) para el backend y MySQL como base de datos.
-El sistema permite cargar, validar y procesar archivos CSV con información de comercios, así como administrar registros que contienen errores.
+Este proyecto es una aplicación web que permite cargar, validar y procesar archivos CSV con información de comercios.
+El backend fue desarrollado con Spring Boot (Java) y el frontend con React, utilizando MySQL como base de datos para el almacenamiento.
+
+## 📌 Tecnologías Utilizadas
+🖥️ Frontend
+
+- React + Vite
+- JavaScript / TypeScript
+- React Hooks
+
+## ⚙️ Backend
+
+- Java 21
+- Spring Boot
+- Spring Web MVC
+- Spring JDBC
+= MySQL Connector
+
+## 🗄️ Base de Datos
+
+- MySQL
+- Stored Procedures
+
